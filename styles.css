@@ -1,2 +1,26 @@
+/* Your CSS Code here */
 
-/* Your CSS Code here. */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, main, footer {
+    margin: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
